@@ -1,0 +1,25 @@
+.bienvenido-body {
+  background: linear-gradient(to right, #8bdb56, #d4f8c1);
+  height: 100vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 5%;
+  box-sizing: border-box;
+}
+
+.bienvenido-container {
+  text-align: right;
+  max-width: 600px;
+  color: #2f3e1d;
+}
+
+.bienvenido-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.bienvenido-container p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
